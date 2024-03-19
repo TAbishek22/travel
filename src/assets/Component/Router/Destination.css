@@ -1,0 +1,23 @@
+.maincontent {
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+#carouselExampleCaptions img {
+    height: auto;
+    object-fit: contain;
+}
+#large {
+    height: 500px;
+    width: 50%;
+}
+.d-block img {
+    object-fit: contain;
+}
+
+.btn:hover {
+    color: black;
+}
